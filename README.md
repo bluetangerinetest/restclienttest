@@ -8,7 +8,9 @@ Running the App
 ===============
 cd to TideSocial/TideSocialApp/target
 there will be social-rank-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+
 java -jar social-rank-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+
 The service should now be running
 
 Testing the app
