@@ -1,7 +1,9 @@
 Building the app
 =================
 cd to the project root direct - TideSocial
+
 mvn clean install
+
 All tests will be run and jar will be build containing all required dependencies
 
 Running the App
